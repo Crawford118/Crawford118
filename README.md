@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Crawford118
-- 👀 I’m interested in learning and seeing new things
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on not sure yet.
+- 👀 I’m interested in becoming a cybersecurity professional.
+- 🌱 I’m currently completed cybersecurity bootcamp.
 - 📫 How to reach me Dantecrawford1@gmail.com
 
 <!---
