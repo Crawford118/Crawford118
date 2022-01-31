@@ -32,5 +32,3 @@
 
 ---
 
-[website]: https://crawford118.github.io
-[linkedin]: https://linkedin.com/in/crawford118
